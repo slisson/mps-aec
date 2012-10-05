@@ -23,7 +23,7 @@
         <id>de.slisson.mps.editor.aec</id>
         <name>MPS Abstract Editor Component</name>
         <version>1.0</version>
-        <vendor url="http://slisson.de/">Sascha Lisson</vendor>
+        <vendor url="https://github.com/slisson/mps-aec">Sascha Lisson</vendor>
         <depends>jetbrains.mps.core</depends>
         
         <extensions defaultExtensionNs="com.intellij">

@@ -82,7 +82,7 @@
       </node>
       <node role="vendor" roleId="kdzh.7832771629084912518" type="kdzh.BuildMps_IdeaPluginVendor" typeId="kdzh.7832771629084799699" id="6876584032110996868">
         <property name="name" nameId="kdzh.7832771629084799702" value="Sascha Lisson" />
-        <property name="url" nameId="kdzh.7832771629084799701" value="http://slisson.de/" />
+        <property name="url" nameId="kdzh.7832771629084799701" value="https://github.com/slisson/mps-aec" />
       </node>
     </node>
     <node role="parts" roleId="3ior.7389400916848080626" type="kdzh.BuildMps_Group" typeId="kdzh.1500819558095907805" id="8865381451576443691">
