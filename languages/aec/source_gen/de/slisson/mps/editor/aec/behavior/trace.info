@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="AbstractEditorComponent_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="35" endPosition="0" unitName="de.slisson.mps.editor.aec.behavior.AbstractEditorComponent_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="26" endPosition="0" unitName="de.slisson.mps.editor.aec.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="ConcreteEditorComponent_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="de.slisson.mps.editor.aec.behavior.ConcreteEditorComponent_BehaviorDescriptor" />
+  <root nodeId="6179564151247373557">
+    <nodeInfo nodeId="1220339857077" fileName="AbstractEditorComponent_Behavior.java" startLine="11" startPosition="77" endLine="12" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1220339859221" fileName="AbstractEditorComponent_Behavior.java" startLine="15" startPosition="77" endLine="16" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1229951213450" fileName="AbstractEditorComponent_Behavior.java" startLine="19" startPosition="83" endLine="20" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6179564151247373557" fileName="AbstractEditorComponent_Behavior.java" startLine="7" startPosition="47" endLine="10" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="6179564151247373557" fileName="AbstractEditorComponent_Behavior.java" startLine="10" startPosition="0" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getOpeningText_1220339714057#(Ljetbrains/mps/smodel/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="6179564151247373557" fileName="AbstractEditorComponent_Behavior.java" startLine="14" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_getClosingText_1220339738643#(Ljetbrains/mps/smodel/SNode;)Ljava/lang/String;" />
+    <nodeInfo nodeId="6179564151247373557" fileName="AbstractEditorComponent_Behavior.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="virtual_isCellIdInitialized_1229948571177#(Ljetbrains/mps/smodel/SNode;)Z" />
+    <scopeInfo nodeId="6179564151247373559" fileName="AbstractEditorComponent_Behavior.java" startLine="8" startPosition="43" endLine="8" endPosition="43" />
+    <scopeInfo nodeId="1220339850926" fileName="AbstractEditorComponent_Behavior.java" startLine="11" startPosition="77" endLine="12" endPosition="15" />
+    <scopeInfo nodeId="1220339853839" fileName="AbstractEditorComponent_Behavior.java" startLine="15" startPosition="77" endLine="16" endPosition="15" />
+    <scopeInfo nodeId="1229951193833" fileName="AbstractEditorComponent_Behavior.java" startLine="19" startPosition="83" endLine="20" endPosition="16" />
+    <scopeInfo nodeId="6179564151247373557" fileName="AbstractEditorComponent_Behavior.java" startLine="7" startPosition="47" endLine="10" endPosition="0">
+      <varInfo nodeId="6179564151247373557" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6179564151247373557" fileName="AbstractEditorComponent_Behavior.java" startLine="10" startPosition="0" endLine="14" endPosition="0">
+      <varInfo nodeId="6179564151247373557" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6179564151247373557" fileName="AbstractEditorComponent_Behavior.java" startLine="14" startPosition="0" endLine="18" endPosition="0">
+      <varInfo nodeId="6179564151247373557" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6179564151247373557" fileName="AbstractEditorComponent_Behavior.java" startLine="18" startPosition="0" endLine="22" endPosition="0">
+      <varInfo nodeId="6179564151247373557" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="6179564151247373557" fileName="AbstractEditorComponent_Behavior.java" startLine="7" startPosition="0" endLine="23" endPosition="0" unitName="de.slisson.mps.editor.aec.behavior.AbstractEditorComponent_Behavior" />
+  </root>
+</debugInfo>
+

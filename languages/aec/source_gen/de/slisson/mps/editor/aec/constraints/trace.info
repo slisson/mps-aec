@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="ConstraintsAspectDescriptor.java" startLine="9" startPosition="0" endLine="25" endPosition="0" unitName="de.slisson.mps.editor.aec.constraints.ConstraintsAspectDescriptor" />
+  <root nodeId="7037597780566606266">
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="20" startPosition="84" endLine="21" endPosition="192" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="breakingNode_r8kwn5_a0a1a0a0a1a0b0a1a0" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="23" startPosition="48" endLine="24" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="28" startPosition="83" endLine="29" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="32" startPosition="44" endLine="33" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566606271" fileName="ConcreteEditorComponent_Constraints.java" startLine="41" startPosition="142" endLine="42" endPosition="106" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7037597780566650102" fileName="ConcreteEditorComponent_Constraints.java" startLine="42" startPosition="106" endLine="43" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="47" startPosition="61" endLine="48" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="52" startPosition="7" endLine="53" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="22" startPosition="0" endLine="25" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="ConcreteEditorComponent_Constraints#()V" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="30" startPosition="107" endLine="35" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="hasOwnScopeProvider#()Z" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="45" startPosition="0" endLine="50" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSearchScopeValidatorNode#()Ljetbrains/mps/smodel/SNodePointer;" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="39" startPosition="49" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createSearchScopeOrListOfNodes#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljava/lang/Object;" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="38" startPosition="56" endLine="50" endPosition="10" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="35" startPosition="0" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="29" startPosition="75" endLine="52" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="26" startPosition="0" endLine="55" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getNotDefaultReferences#()Ljava/util/Map;" />
+    <scopeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="23" startPosition="48" endLine="24" endPosition="73" />
+    <scopeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="32" startPosition="44" endLine="33" endPosition="20" />
+    <scopeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="47" startPosition="61" endLine="48" endPosition="58" />
+    <scopeInfo nodeId="7037597780566606270" fileName="ConcreteEditorComponent_Constraints.java" startLine="41" startPosition="142" endLine="43" endPosition="59">
+      <varInfo nodeId="7037597780566606272" varName="c" />
+    </scopeInfo>
+    <scopeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="22" startPosition="0" endLine="25" endPosition="3" />
+    <scopeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="30" startPosition="107" endLine="35" endPosition="0" />
+    <scopeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="45" startPosition="0" endLine="50" endPosition="0" />
+    <scopeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="39" startPosition="49" endLine="45" endPosition="0">
+      <varInfo nodeId="7037597780566606266" varName="_context" />
+      <varInfo nodeId="7037597780566606266" varName="operationContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="38" startPosition="56" endLine="50" endPosition="10" />
+    <scopeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="35" startPosition="0" endLine="52" endPosition="0" />
+    <scopeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="28" startPosition="83" endLine="53" endPosition="22">
+      <varInfo nodeId="7037597780566606266" varName="references" />
+    </scopeInfo>
+    <scopeInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="26" startPosition="0" endLine="55" endPosition="0" />
+    <unitInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="20" startPosition="0" endLine="56" endPosition="0" unitName="de.slisson.mps.editor.aec.constraints.ConcreteEditorComponent_Constraints" />
+    <unitInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="30" startPosition="44" endLine="52" endPosition="5" unitName="de.slisson.mps.editor.aec.constraints.ConcreteEditorComponent_Constraints$1" />
+    <unitInfo nodeId="7037597780566606266" fileName="ConcreteEditorComponent_Constraints.java" startLine="39" startPosition="19" endLine="50" endPosition="9" unitName="de.slisson.mps.editor.aec.constraints.ConcreteEditorComponent_Constraints$2" />
+  </root>
+</debugInfo>
+
