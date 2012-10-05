@@ -2,3 +2,5 @@ classes_gen/
 classes_gen.caches/
 *.class
 *.iws
+/build/tmp/*
+/build/artifacts/*
