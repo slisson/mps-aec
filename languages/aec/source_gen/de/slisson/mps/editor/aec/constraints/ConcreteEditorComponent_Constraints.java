@@ -15,7 +15,7 @@ import jetbrains.mps.smodel.IOperationContext;
 import jetbrains.mps.smodel.runtime.ReferenceConstraintsContext;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
-import de.slisson.mps.editor.aec.util.AecUtil;
+import de.slisson.mps.editor.aec.runtime.AecUtil;
 
 public class ConcreteEditorComponent_Constraints extends BaseConstraintsDescriptor {
   private static SNodePointer breakingNode_r8kwn5_a0a1a0a0a1a0b0a1a0 = new SNodePointer("r:7cc539c5-29be-40b3-9d55-b7bcd3394317(de.slisson.mps.editor.aec.constraints)", "7037597780566606269");

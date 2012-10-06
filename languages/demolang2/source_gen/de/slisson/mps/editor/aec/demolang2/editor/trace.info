@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="7446884211201005624">
+    <nodeInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="17" startPosition="43" endLine="18" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="21" startPosition="67" endLine="22" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="25" startPosition="79" endLine="26" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="29" startPosition="89" endLine="30" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="30" startPosition="96" endLine="31" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="30" startPosition="96" endLine="31" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="31" startPosition="48" endLine="32" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="31" startPosition="48" endLine="32" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="32" startPosition="81" endLine="33" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="32" startPosition="81" endLine="33" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="33" startPosition="81" endLine="34" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7446884211201005629" fileName="ConceptB_bProperties.java" startLine="37" startPosition="88" endLine="38" endPosition="106" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7446884211201005629" fileName="ConceptB_bProperties.java" startLine="38" startPosition="106" endLine="39" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7446884211201005629" fileName="ConceptB_bProperties.java" startLine="38" startPosition="106" endLine="39" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201005629" fileName="ConceptB_bProperties.java" startLine="39" startPosition="47" endLine="40" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201005629" fileName="ConceptB_bProperties.java" startLine="40" startPosition="34" endLine="41" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="44" startPosition="88" endLine="45" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="45" startPosition="82" endLine="46" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="46" startPosition="31" endLine="47" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="47" startPosition="44" endLine="48" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="48" startPosition="26" endLine="49" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="49" startPosition="58" endLine="50" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="49" startPosition="58" endLine="50" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="50" startPosition="44" endLine="51" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="51" startPosition="73" endLine="52" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="52" startPosition="57" endLine="53" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="54" startPosition="35" endLine="55" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="55" startPosition="72" endLine="56" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="56" startPosition="78" endLine="57" endPosition="105" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="58" startPosition="10" endLine="59" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="16" startPosition="64" endLine="19" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="ConceptB_bProperties#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="48" startPosition="26" endLine="51" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createEditorCell#(Ljetbrains/mps/nodeEditor/EditorContext;)Ljetbrains/mps/nodeEditor/cells/EditorCell;" />
+    <nodeInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createEditorCell#(Ljetbrains/mps/nodeEditor/EditorContext;Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/nodeEditor/cells/EditorCell;" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="53" startPosition="59" endLine="59" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7446884211201005629" fileName="ConceptB_bProperties.java" startLine="36" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConstant_owlm0o_a0#(Ljetbrains/mps/nodeEditor/EditorContext;Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/nodeEditor/cells/EditorCell;" />
+    <nodeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="28" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createCollection_owlm0o_a#(Ljetbrains/mps/nodeEditor/EditorContext;Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/nodeEditor/cells/EditorCell;" />
+    <nodeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="43" startPosition="0" endLine="61" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createProperty_owlm0o_b0#(Ljetbrains/mps/nodeEditor/EditorContext;Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/nodeEditor/cells/EditorCell;" />
+    <scopeInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="17" startPosition="43" endLine="18" endPosition="16" />
+    <scopeInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="21" startPosition="67" endLine="22" endPosition="65" />
+    <scopeInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="25" startPosition="79" endLine="26" endPosition="63" />
+    <scopeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="30" startPosition="96" endLine="31" endPosition="48" />
+    <scopeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="31" startPosition="48" endLine="32" endPosition="81" />
+    <scopeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="32" startPosition="81" endLine="33" endPosition="81" />
+    <scopeInfo nodeId="7446884211201005629" fileName="ConceptB_bProperties.java" startLine="38" startPosition="106" endLine="39" endPosition="47" />
+    <scopeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="49" startPosition="58" endLine="50" endPosition="44" />
+    <scopeInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="16" startPosition="64" endLine="19" endPosition="3">
+      <varInfo nodeId="7446884211201005624" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="48" startPosition="26" endLine="51" endPosition="73" />
+    <scopeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="54" startPosition="35" endLine="57" endPosition="105">
+      <varInfo nodeId="7446884211201005631" varName="manager" />
+      <varInfo nodeId="7446884211201005631" varName="opContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="20" startPosition="0" endLine="24" endPosition="0">
+      <varInfo nodeId="7446884211201005624" varName="editorContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="24" startPosition="0" endLine="28" endPosition="0">
+      <varInfo nodeId="7446884211201005624" varName="editorContext" />
+      <varInfo nodeId="7446884211201005624" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="7446884211201005629" fileName="ConceptB_bProperties.java" startLine="37" startPosition="88" endLine="41" endPosition="22">
+      <varInfo nodeId="7446884211201005629" varName="editorCell" />
+    </scopeInfo>
+    <scopeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="29" startPosition="89" endLine="34" endPosition="22">
+      <varInfo nodeId="7446884211201005626" varName="editorCell" />
+    </scopeInfo>
+    <scopeInfo nodeId="7446884211201005629" fileName="ConceptB_bProperties.java" startLine="36" startPosition="0" endLine="43" endPosition="0">
+      <varInfo nodeId="7446884211201005629" varName="editorContext" />
+      <varInfo nodeId="7446884211201005629" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="7446884211201005626" fileName="ConceptB_bProperties.java" startLine="28" startPosition="0" endLine="36" endPosition="0">
+      <varInfo nodeId="7446884211201005626" varName="editorContext" />
+      <varInfo nodeId="7446884211201005626" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="44" startPosition="88" endLine="59" endPosition="22">
+      <varInfo nodeId="7446884211201005631" varName="attributeConcept" />
+      <varInfo nodeId="7446884211201005631" varName="attributeKind" />
+      <varInfo nodeId="7446884211201005631" varName="editorCell" />
+      <varInfo nodeId="7446884211201005631" varName="provider" />
+    </scopeInfo>
+    <scopeInfo nodeId="7446884211201005631" fileName="ConceptB_bProperties.java" startLine="43" startPosition="0" endLine="61" endPosition="0">
+      <varInfo nodeId="7446884211201005631" varName="editorContext" />
+      <varInfo nodeId="7446884211201005631" varName="node" />
+    </scopeInfo>
+    <unitInfo nodeId="7446884211201005624" fileName="ConceptB_bProperties.java" startLine="16" startPosition="0" endLine="62" endPosition="0" unitName="de.slisson.mps.editor.aec.demolang2.editor.ConceptB_bProperties" />
+  </root>
+</debugInfo>
+

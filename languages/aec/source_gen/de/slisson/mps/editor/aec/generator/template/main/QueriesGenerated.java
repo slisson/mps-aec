@@ -6,12 +6,9 @@ import jetbrains.mps.smodel.IOperationContext;
 import jetbrains.mps.generator.template.PropertyMacroContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 import jetbrains.mps.lang.editor.behavior.EditorCellModel_Behavior;
-import jetbrains.mps.generator.template.ReferenceMacroContext;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.generator.template.SourceSubstituteMacroNodeContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
-import jetbrains.mps.generator.template.SourceSubstituteMacroNodesContext;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations;
 import jetbrains.mps.generator.template.WeavingMappingRuleContext;
 import jetbrains.mps.lang.editor.generator.baseLanguage.template.util.QueriesUtil;
 
@@ -20,7 +17,7 @@ public class QueriesGenerated {
     return SPropertyOperations.getString(_context.getNode(), "name");
   }
 
-  public static Object propertyMacro_GetPropertyValue_4070205545134751768(final IOperationContext operationContext, final PropertyMacroContext _context) {
+  public static Object propertyMacro_GetPropertyValue_8291359990510587306(final IOperationContext operationContext, final PropertyMacroContext _context) {
     return SPropertyOperations.getString(_context.getNode(), "name");
   }
 
@@ -28,16 +25,8 @@ public class QueriesGenerated {
     return EditorCellModel_Behavior.call_getFactoryMethodName_1216812165609(_context.getNode(), _context);
   }
 
-  public static Object referenceMacro_GetReferent_4070205545134763437(final IOperationContext operationContext, final ReferenceMacroContext _context) {
-    return "AecUtilGen";
-  }
-
   public static SNode sourceNodeQuery_996730828436728652(final IOperationContext operationContext, final SourceSubstituteMacroNodeContext _context) {
     return SLinkOperations.getTarget(_context.getNode(), "cellModel", true);
-  }
-
-  public static Iterable sourceNodesQuery_4070205545134736960(final IOperationContext operationContext, final SourceSubstituteMacroNodesContext _context) {
-    return SLinkOperations.getTargets(SNodeOperations.getNode("r:be0cc664-1077-4e39-81ff-26f898352c6c(de.slisson.mps.editor.aec.util)", "7037597780566561973"), "staticMethod", true);
   }
 
   public static SNode weaving_MappingRule_ContextNodeQuery_6179564151247372704(final IOperationContext opereationContext, final WeavingMappingRuleContext _context) {

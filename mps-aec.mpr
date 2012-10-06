@@ -25,6 +25,7 @@
       <modulePath path="${project}/languages/demolang/demolang.mpl" folder="demo" />
       <modulePath path="${project}/languages/demolang2/demolang2.mpl" folder="demo" />
       <modulePath path="${project}/solutions/de.slisson.mps.editor.aec.demosol/demosol.msd" folder="demo" />
+      <modulePath path="${project}/solutions/de.slisson.mps.editor.aec.runtime/runtime.msd" folder="" />
       <modulePath path="${project}/solutions/de.slisson.mps.editor.aec.util/util.msd" folder="" />
       <modulePath path="${project}/solutions/mps-aec.build/build.msd" />
     </projectModules>
