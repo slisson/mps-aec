@@ -7,5 +7,8 @@
   <usedLanguages>
     <usedLanguage>f8d44a97-3ef8-453c-8345-7b3b78e66c06(de.slisson.mps.editor.aec.demolang)</usedLanguage>
   </usedLanguages>
+  <usedDevKits>
+    <usedDevKit>a90adf90-4897-4888-88a2-102c86890271(de.slisson.mps.editor.aec.demodevkit)</usedDevKit>
+  </usedDevKits>
 </solution>
 

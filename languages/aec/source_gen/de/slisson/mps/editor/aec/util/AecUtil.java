@@ -16,6 +16,9 @@ import jetbrains.mps.smodel.LanguageAspect;
 import jetbrains.mps.smodel.SModel;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SModelOperations;
 import jetbrains.mps.internal.collections.runtime.IWhereFilter;
+import jetbrains.mps.project.structure.modules.ModuleReference;
+import jetbrains.mps.internal.collections.runtime.CollectionSequence;
+import jetbrains.mps.util.IterableUtil;
 import java.util.Queue;
 import jetbrains.mps.internal.collections.runtime.QueueSequence;
 import jetbrains.mps.internal.collections.runtime.backports.LinkedList;
@@ -28,9 +31,11 @@ import jetbrains.mps.nodeEditor.EditorContext;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Error;
 import jetbrains.mps.lang.core.behavior.INamedConcept_Behavior;
 import jetbrains.mps.nodeEditor.AbstractCellProvider;
+import jetbrains.mps.logging.Logger;
+import jetbrains.mps.project.ClassLoadingModule;
 import jetbrains.mps.smodel.ModuleRepositoryFacade;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 import jetbrains.mps.smodel.DefaultSModelDescriptor;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 
 public class AecUtil {
   public AecUtil() {
@@ -71,8 +76,10 @@ public class AecUtil {
     });
   }
 
-  public static SNode findConcreteComponent(SNode nodeConcept, String componentName, SNode module) {
-    List<SNode> langRefs = SLinkOperations.getTargets(module, "usedLanguages", true);
+  public static SNode findConcreteComponent(SNode nodeConcept, String componentName, SModel model) {
+    List<ModuleReference> langRefs = ListSequence.fromList(new ArrayList<ModuleReference>());
+    ListSequence.fromList(langRefs).addSequence(CollectionSequence.fromCollection(IterableUtil.asCollection(model.getModelDepsManager().getAllImportedLanguages())));
+
     final Queue<SNode> conceptQueue = QueueSequence.fromQueue(new LinkedList<SNode>());
     Set<SNode> processedConcepts = SetSequence.fromSet(new HashSet<SNode>());
     QueueSequence.fromQueue(conceptQueue).addLastElement(nodeConcept);
@@ -115,28 +122,42 @@ public class AecUtil {
       if (concreteComponent == null) {
         result = new EditorCell_Error(editorContext, nodeToEdit, "Concrete Component '" + componentName + "' not found");
       } else {
-        Class concreteClass = Class.forName(INamedConcept_Behavior.call_getFqName_1213877404258(concreteComponent));
+        SModelOperations.getModuleStub(SNodeOperations.getModel(nodeToEdit));
+        Class concreteClass = loadClass(INamedConcept_Behavior.call_getFqName_1213877404258(concreteComponent), SModelOperations.getModuleStub(SNodeOperations.getModel(concreteComponent)));
         AbstractCellProvider provider = (AbstractCellProvider) concreteClass.getConstructor(SNode.class).newInstance(nodeToEdit);
         result = provider.createEditorCell(editorContext);
       }
     } catch (Exception ex) {
-      result = new EditorCell_Error(editorContext, nodeToEdit, "Failed to load Concrete Component '" + componentName + "'.");
+      result = new EditorCell_Error(editorContext, nodeToEdit, "Failed to load concrete component for '" + componentName + "'.");
+
+      Logger.getLogger("de.slisson.mps.editor.aec.AecUtil").error("Failed to load concrete componenten for '" + componentName + "'.", ex);
     }
 
     return result;
   }
 
   public static SNode findConcreteComponent(final SNode nodeToEdit, String componentName) {
-    return findConcreteComponent(SNodeOperations.getConceptDeclaration(nodeToEdit), componentName, SModelOperations.getModuleStub(SNodeOperations.getModel(nodeToEdit)));
+    return findConcreteComponent(SNodeOperations.getConceptDeclaration(nodeToEdit), componentName, SNodeOperations.getModel(nodeToEdit));
   }
 
-  public static SNode getConcreteComponentByConcept(SNode concept, String componentName, List<SNode> languageModules) {
-    for (SNode mod : ListSequence.fromList(languageModules)) {
-      Language lang = ModuleRepositoryFacade.getInstance().getModule(SPropertyOperations.getString(mod, "qualifiedName"), Language.class);
+  public static Class loadClass(String classFqName, SNode moduleNode) throws ClassNotFoundException {
+    Class result;
+    ClassLoadingModule module = ModuleRepositoryFacade.getInstance().getModule(INamedConcept_Behavior.call_getFqName_1213877404258(moduleNode), ClassLoadingModule.class);
+    if (module == null) {
+      result = Class.forName(classFqName);
+    } else {
+      result = Class.forName(classFqName, true, module.getClassLoader());
+    }
+    return result;
+  }
+
+  public static SNode getConcreteComponentByConcept(SNode concept, String componentName, List<ModuleReference> languageModules) {
+    for (ModuleReference mod : ListSequence.fromList(languageModules)) {
+      Language lang = ModuleRepositoryFacade.getInstance().getModule(mod.getModuleFqName(), Language.class);
       DefaultSModelDescriptor editorModelDescriptor = LanguageAspect.EDITOR.get(lang);
       SModel editorModel = editorModelDescriptor.getSModel();
       for (SNode componentDecl : ListSequence.fromList(SModelOperations.getRoots(editorModel, "de.slisson.mps.editor.aec.structure.ConcreteEditorComponent"))) {
-        if (eq_4hvxy8_a0a0a3a0a7_0(INamedConcept_Behavior.call_getFqName_1213877404258(SLinkOperations.getTarget(componentDecl, "conceptDeclaration", false)), INamedConcept_Behavior.call_getFqName_1213877404258(concept)) && eq_4hvxy8_a0a0a3a0a7(SPropertyOperations.getString(SLinkOperations.getTarget(componentDecl, "abstractComponent", false), "name"), componentName)) {
+        if (eq_4hvxy8_a0a0a3a0a8_0(INamedConcept_Behavior.call_getFqName_1213877404258(SLinkOperations.getTarget(componentDecl, "conceptDeclaration", false)), INamedConcept_Behavior.call_getFqName_1213877404258(concept)) && eq_4hvxy8_a0a0a3a0a8(SPropertyOperations.getString(SLinkOperations.getTarget(componentDecl, "abstractComponent", false), "name"), componentName)) {
           return componentDecl;
 
         }
@@ -145,14 +166,14 @@ public class AecUtil {
     return null;
   }
 
-  private static boolean eq_4hvxy8_a0a0a3a0a7(Object a, Object b) {
+  private static boolean eq_4hvxy8_a0a0a3a0a8(Object a, Object b) {
     return (a != null ?
       a.equals(b) :
       a == b
     );
   }
 
-  private static boolean eq_4hvxy8_a0a0a3a0a7_0(Object a, Object b) {
+  private static boolean eq_4hvxy8_a0a0a3a0a8_0(Object a, Object b) {
     return (a != null ?
       a.equals(b) :
       a == b

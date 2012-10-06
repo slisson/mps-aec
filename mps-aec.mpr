@@ -20,8 +20,10 @@
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="${project}/devkits/de.slisson.mps.editor.aec.demodevkit/demodevkit.devkit" folder="demo" />
       <modulePath path="${project}/languages/aec/aec.mpl" />
       <modulePath path="${project}/languages/demolang/demolang.mpl" folder="demo" />
+      <modulePath path="${project}/languages/demolang2/demolang2.mpl" folder="demo" />
       <modulePath path="${project}/solutions/de.slisson.mps.editor.aec.demosol/demosol.msd" folder="demo" />
       <modulePath path="${project}/solutions/de.slisson.mps.editor.aec.util/util.msd" folder="" />
       <modulePath path="${project}/solutions/mps-aec.build/build.msd" />

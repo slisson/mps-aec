@@ -1,207 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
   <root nodeId="7037597780566561973">
-    <nodeInfo nodeId="5412330440170940761" fileName="AecUtil.java" startLine="39" startPosition="73" endLine="40" endPosition="71" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7037597780566649786" fileName="AecUtil.java" startLine="43" startPosition="75" endLine="44" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="7037597780566649852" fileName="AecUtil.java" startLine="44" startPosition="48" endLine="45" endPosition="245" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="7037597780566649881" fileName="AecUtil.java" startLine="45" startPosition="245" endLine="46" endPosition="254" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="7037597780566649966" fileName="AecUtil.java" startLine="46" startPosition="254" endLine="47" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7037597780566649688" fileName="AecUtil.java" startLine="51" startPosition="103" endLine="52" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="7037597780566649722" fileName="AecUtil.java" startLine="53" startPosition="31" endLine="54" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7037597780566649726" fileName="AecUtil.java" startLine="56" startPosition="5" endLine="57" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7037597780566607033" fileName="AecUtil.java" startLine="60" startPosition="75" endLine="61" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="7037597780566607077" fileName="AecUtil.java" startLine="62" startPosition="27" endLine="63" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7037597780566607084" fileName="AecUtil.java" startLine="64" startPosition="5" endLine="65" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="7037597780566607311" fileName="AecUtil.java" startLine="65" startPosition="80" endLine="66" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="7037597780566607466" fileName="AecUtil.java" startLine="68" startPosition="39" endLine="69" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7037597780566606360" fileName="AecUtil.java" startLine="74" startPosition="100" endLine="75" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="7037597780566606370" fileName="AecUtil.java" startLine="75" startPosition="85" endLine="76" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="7037597780566606377" fileName="AecUtil.java" startLine="76" startPosition="87" endLine="77" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="7037597780566606384" fileName="AecUtil.java" startLine="77" startPosition="77" endLine="78" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="7037597780566606394" fileName="AecUtil.java" startLine="79" startPosition="64" endLine="80" endPosition="100" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="7037597780566606402" fileName="AecUtil.java" startLine="81" startPosition="88" endLine="82" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ContinueStatement" />
-    <nodeInfo nodeId="7037597780566606409" fileName="AecUtil.java" startLine="83" startPosition="14" endLine="84" endPosition="86" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="7037597780566606414" fileName="AecUtil.java" startLine="85" startPosition="7" endLine="86" endPosition="113" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="7037597780566606422" fileName="AecUtil.java" startLine="87" startPosition="38" endLine="88" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7037597780566606429" fileName="AecUtil.java" startLine="90" startPosition="130" endLine="91" endPosition="145" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="7037597780566606436" fileName="AecUtil.java" startLine="92" startPosition="247" endLine="93" endPosition="128" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="7037597780566606462" fileName="AecUtil.java" startLine="96" startPosition="39" endLine="97" endPosition="112" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="7037597780566606490" fileName="AecUtil.java" startLine="102" startPosition="39" endLine="103" endPosition="112" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="7037597780566606499" fileName="AecUtil.java" startLine="107" startPosition="5" endLine="108" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="4070205545134744664" fileName="AecUtil.java" startLine="111" startPosition="122" endLine="112" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="4070205545134737007" fileName="AecUtil.java" startLine="113" startPosition="9" endLine="114" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="4070205545134767244" fileName="AecUtil.java" startLine="115" startPosition="38" endLine="116" endPosition="121" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="4070205545134736985" fileName="AecUtil.java" startLine="117" startPosition="14" endLine="118" endPosition="116" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="6722517096586380730" fileName="AecUtil.java" startLine="118" startPosition="116" endLine="119" endPosition="129" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="4070205545134745478" fileName="AecUtil.java" startLine="119" startPosition="129" endLine="120" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="4070205545134744671" fileName="AecUtil.java" startLine="122" startPosition="28" endLine="123" endPosition="125" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="4070205545134737043" fileName="AecUtil.java" startLine="124" startPosition="5" endLine="125" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
-    <nodeInfo nodeId="4070205545134737045" fileName="AecUtil.java" startLine="125" startPosition="0" endLine="126" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7037597780566606592" fileName="AecUtil.java" startLine="129" startPosition="91" endLine="130" endPosition="169" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="6722517096586322648" fileName="AecUtil.java" startLine="134" startPosition="62" endLine="135" endPosition="138" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="6722517096586322690" fileName="AecUtil.java" startLine="135" startPosition="138" endLine="136" endPosition="86" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="6722517096586322766" fileName="AecUtil.java" startLine="136" startPosition="86" endLine="137" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="6722517096586343447" fileName="AecUtil.java" startLine="139" startPosition="371" endLine="140" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="6722517096586343455" fileName="AecUtil.java" startLine="140" startPosition="31" endLine="141" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
-    <nodeInfo nodeId="6722517096586343452" fileName="AecUtil.java" startLine="144" startPosition="5" endLine="145" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7037597780566561975" fileName="AecUtil.java" startLine="35" startPosition="22" endLine="37" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="AecUtil#()V" />
-    <nodeInfo nodeId="7037597780566606407" fileName="AecUtil.java" startLine="83" startPosition="12" endLine="85" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
-    <nodeInfo nodeId="7037597780566649695" fileName="AecUtil.java" startLine="52" startPosition="70" endLine="55" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="7037597780566607050" fileName="AecUtil.java" startLine="61" startPosition="65" endLine="64" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="7037597780566606420" fileName="AecUtil.java" startLine="86" startPosition="113" endLine="89" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="7037597780566606434" fileName="AecUtil.java" startLine="91" startPosition="145" endLine="94" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="7037597780566649969" fileName="AecUtil.java" startLine="38" startPosition="0" endLine="42" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="findAbstractEditorComponents#(Ljetbrains/mps/smodel/SNode;)Ljava/util/List;" />
-    <nodeInfo nodeId="7037597780566607455" fileName="AecUtil.java" startLine="67" startPosition="174" endLine="71" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Ljetbrains/mps/smodel/SNode;)Z" />
-    <nodeInfo nodeId="7037597780566606460" fileName="AecUtil.java" startLine="95" startPosition="130" endLine="99" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Ljetbrains/mps/smodel/SNode;)V" />
-    <nodeInfo nodeId="7037597780566606488" fileName="AecUtil.java" startLine="101" startPosition="227" endLine="105" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Ljetbrains/mps/smodel/SNode;)V" />
-    <nodeInfo nodeId="4070205545134767280" fileName="AecUtil.java" startLine="117" startPosition="12" endLine="121" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
-    <nodeInfo nodeId="6722517096586343466" fileName="AecUtil.java" startLine="128" startPosition="0" endLine="132" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="findConcreteComponent#(Ljetbrains/mps/smodel/SNode;Ljava/lang/String;)Ljetbrains/mps/smodel/SNode;" />
-    <nodeInfo nodeId="6722517096586322851" fileName="AecUtil.java" startLine="138" startPosition="160" endLine="142" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="4070205545134736907" fileName="AecUtil.java" startLine="148" startPosition="67" endLine="152" endPosition="6" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="6722517096586322945" fileName="AecUtil.java" startLine="155" startPosition="69" endLine="159" endPosition="6" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7037597780566625203" fileName="AecUtil.java" startLine="66" startPosition="58" endLine="71" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="7037597780566606400" fileName="AecUtil.java" startLine="80" startPosition="100" endLine="85" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="7037597780566606454" fileName="AecUtil.java" startLine="94" startPosition="9" endLine="99" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="7037597780566606481" fileName="AecUtil.java" startLine="100" startPosition="146" endLine="105" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="7037597780566649655" fileName="AecUtil.java" startLine="50" startPosition="60" endLine="56" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
-    <nodeInfo nodeId="6722517096586322847" fileName="AecUtil.java" startLine="137" startPosition="61" endLine="143" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
-    <nodeInfo nodeId="7037597780566649743" fileName="AecUtil.java" startLine="42" startPosition="0" endLine="49" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getAbstractEditorComponents#(Ljetbrains/mps/smodel/SNode;)Ljava/util/List;" />
-    <nodeInfo nodeId="4070205545134767196" fileName="AecUtil.java" startLine="114" startPosition="81" endLine="121" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="4070205545134736907" fileName="AecUtil.java" startLine="147" startPosition="0" endLine="154" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="eq_4hvxy8_a0a0a3a0a7#(Ljava/lang/Object;Ljava/lang/Object;)Z" />
-    <nodeInfo nodeId="6722517096586322945" fileName="AecUtil.java" startLine="154" startPosition="0" endLine="161" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="eq_4hvxy8_a0a0a3a0a7_0#(Ljava/lang/Object;Ljava/lang/Object;)Z" />
-    <nodeInfo nodeId="7037597780566625209" fileName="AecUtil.java" startLine="49" startPosition="0" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="findEditorDeclaration#(Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/smodel/SNode;" />
-    <nodeInfo nodeId="6722517096586287597" fileName="AecUtil.java" startLine="133" startPosition="119" endLine="144" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
-    <nodeInfo nodeId="4070205545134744653" fileName="AecUtil.java" startLine="112" startPosition="22" endLine="124" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
-    <nodeInfo nodeId="7037597780566607022" fileName="AecUtil.java" startLine="59" startPosition="0" endLine="73" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="findEditorDeclarationByConcept#(Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/smodel/SNode;" />
-    <nodeInfo nodeId="6722517096586343415" fileName="AecUtil.java" startLine="132" startPosition="0" endLine="147" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getConcreteComponentByConcept#(Ljetbrains/mps/smodel/SNode;Ljava/lang/String;Ljava/util/List;)Ljetbrains/mps/smodel/SNode;" />
-    <nodeInfo nodeId="7037597780566606427" fileName="AecUtil.java" startLine="89" startPosition="7" endLine="106" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="4070205545134704787" fileName="AecUtil.java" startLine="110" startPosition="0" endLine="128" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="createConcreteEditorCell#(Ljetbrains/mps/smodel/SNode;Ljava/lang/String;Ljetbrains/mps/nodeEditor/EditorContext;)Ljetbrains/mps/nodeEditor/cells/EditorCell;" />
-    <nodeInfo nodeId="7037597780566606389" fileName="AecUtil.java" startLine="78" startPosition="70" endLine="107" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
-    <nodeInfo nodeId="7037597780566606342" fileName="AecUtil.java" startLine="73" startPosition="0" endLine="110" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="findConcreteComponent#(Ljetbrains/mps/smodel/SNode;Ljava/lang/String;Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/smodel/SNode;" />
-    <scopeInfo nodeId="7037597780566561978" fileName="AecUtil.java" startLine="36" startPosition="20" endLine="36" endPosition="20" />
-    <scopeInfo nodeId="7037597780566649972" fileName="AecUtil.java" startLine="39" startPosition="73" endLine="40" endPosition="71" />
-    <scopeInfo nodeId="7037597780566649696" fileName="AecUtil.java" startLine="53" startPosition="31" endLine="54" endPosition="26" />
-    <scopeInfo nodeId="7037597780566607051" fileName="AecUtil.java" startLine="62" startPosition="27" endLine="63" endPosition="18" />
-    <scopeInfo nodeId="7037597780566607456" fileName="AecUtil.java" startLine="68" startPosition="39" endLine="69" endPosition="85" />
-    <scopeInfo nodeId="7037597780566606401" fileName="AecUtil.java" startLine="81" startPosition="88" endLine="82" endPosition="17" />
-    <scopeInfo nodeId="7037597780566606408" fileName="AecUtil.java" startLine="83" startPosition="14" endLine="84" endPosition="86" />
-    <scopeInfo nodeId="7037597780566606421" fileName="AecUtil.java" startLine="87" startPosition="38" endLine="88" endPosition="31" />
-    <scopeInfo nodeId="7037597780566606435" fileName="AecUtil.java" startLine="92" startPosition="247" endLine="93" endPosition="128" />
-    <scopeInfo nodeId="7037597780566606461" fileName="AecUtil.java" startLine="96" startPosition="39" endLine="97" endPosition="112" />
-    <scopeInfo nodeId="7037597780566606489" fileName="AecUtil.java" startLine="102" startPosition="39" endLine="103" endPosition="112" />
-    <scopeInfo nodeId="4070205545134767197" fileName="AecUtil.java" startLine="115" startPosition="38" endLine="116" endPosition="121" />
-    <scopeInfo nodeId="4070205545134744656" fileName="AecUtil.java" startLine="122" startPosition="0" endLine="123" endPosition="125">
+    <nodeInfo nodeId="5412330440170940761" fileName="AecUtil.java" startLine="44" startPosition="73" endLine="45" endPosition="71" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566649786" fileName="AecUtil.java" startLine="48" startPosition="75" endLine="49" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7037597780566649852" fileName="AecUtil.java" startLine="49" startPosition="48" endLine="50" endPosition="245" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7037597780566649881" fileName="AecUtil.java" startLine="50" startPosition="245" endLine="51" endPosition="254" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7037597780566649966" fileName="AecUtil.java" startLine="51" startPosition="254" endLine="52" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566649688" fileName="AecUtil.java" startLine="56" startPosition="103" endLine="57" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7037597780566649722" fileName="AecUtil.java" startLine="58" startPosition="31" endLine="59" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566649726" fileName="AecUtil.java" startLine="61" startPosition="5" endLine="62" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566607033" fileName="AecUtil.java" startLine="65" startPosition="75" endLine="66" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7037597780566607077" fileName="AecUtil.java" startLine="67" startPosition="27" endLine="68" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566607084" fileName="AecUtil.java" startLine="69" startPosition="5" endLine="70" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7037597780566607311" fileName="AecUtil.java" startLine="70" startPosition="80" endLine="71" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7037597780566607466" fileName="AecUtil.java" startLine="73" startPosition="39" endLine="74" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7446884211200975219" fileName="AecUtil.java" startLine="79" startPosition="100" endLine="80" endPosition="93" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7446884211200975267" fileName="AecUtil.java" startLine="80" startPosition="93" endLine="81" endPosition="165" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211200975265" fileName="AecUtil.java" startLine="81" startPosition="165" endLine="82" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="7037597780566606370" fileName="AecUtil.java" startLine="82" startPosition="0" endLine="83" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7037597780566606377" fileName="AecUtil.java" startLine="83" startPosition="87" endLine="84" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7037597780566606384" fileName="AecUtil.java" startLine="84" startPosition="77" endLine="85" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7037597780566606394" fileName="AecUtil.java" startLine="86" startPosition="64" endLine="87" endPosition="100" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7037597780566606402" fileName="AecUtil.java" startLine="88" startPosition="88" endLine="89" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ContinueStatement" />
+    <nodeInfo nodeId="7037597780566606409" fileName="AecUtil.java" startLine="90" startPosition="14" endLine="91" endPosition="86" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7037597780566606414" fileName="AecUtil.java" startLine="92" startPosition="7" endLine="93" endPosition="113" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7037597780566606422" fileName="AecUtil.java" startLine="94" startPosition="38" endLine="95" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566606429" fileName="AecUtil.java" startLine="97" startPosition="130" endLine="98" endPosition="145" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7037597780566606436" fileName="AecUtil.java" startLine="99" startPosition="247" endLine="100" endPosition="128" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7037597780566606462" fileName="AecUtil.java" startLine="103" startPosition="39" endLine="104" endPosition="112" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7037597780566606490" fileName="AecUtil.java" startLine="109" startPosition="39" endLine="110" endPosition="112" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7037597780566606499" fileName="AecUtil.java" startLine="114" startPosition="5" endLine="115" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4070205545134744664" fileName="AecUtil.java" startLine="118" startPosition="122" endLine="119" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4070205545134737007" fileName="AecUtil.java" startLine="120" startPosition="9" endLine="121" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4070205545134767244" fileName="AecUtil.java" startLine="122" startPosition="38" endLine="123" endPosition="121" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201075581" fileName="AecUtil.java" startLine="124" startPosition="14" endLine="125" endPosition="77" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4070205545134736985" fileName="AecUtil.java" startLine="125" startPosition="77" endLine="126" endPosition="189" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6722517096586380730" fileName="AecUtil.java" startLine="126" startPosition="189" endLine="127" endPosition="129" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4070205545134745478" fileName="AecUtil.java" startLine="127" startPosition="129" endLine="128" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4070205545134744671" fileName="AecUtil.java" startLine="130" startPosition="28" endLine="131" endPosition="129" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201031982" fileName="AecUtil.java" startLine="131" startPosition="129" endLine="132" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="7446884211201015398" fileName="AecUtil.java" startLine="132" startPosition="0" endLine="133" endPosition="138" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4070205545134737043" fileName="AecUtil.java" startLine="134" startPosition="5" endLine="135" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="4070205545134737045" fileName="AecUtil.java" startLine="135" startPosition="0" endLine="136" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566606592" fileName="AecUtil.java" startLine="139" startPosition="91" endLine="140" endPosition="137" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7446884211201075707" fileName="AecUtil.java" startLine="143" startPosition="101" endLine="144" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7446884211201075691" fileName="AecUtil.java" startLine="144" startPosition="17" endLine="145" endPosition="170" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7446884211201076155" fileName="AecUtil.java" startLine="146" startPosition="25" endLine="147" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201090633" fileName="AecUtil.java" startLine="148" startPosition="12" endLine="149" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7446884211201076201" fileName="AecUtil.java" startLine="150" startPosition="5" endLine="151" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6722517096586322648" fileName="AecUtil.java" startLine="155" startPosition="72" endLine="156" endPosition="108" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6722517096586322690" fileName="AecUtil.java" startLine="156" startPosition="108" endLine="157" endPosition="86" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6722517096586322766" fileName="AecUtil.java" startLine="157" startPosition="86" endLine="158" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6722517096586343447" fileName="AecUtil.java" startLine="160" startPosition="371" endLine="161" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6722517096586343455" fileName="AecUtil.java" startLine="161" startPosition="31" endLine="162" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6722517096586343452" fileName="AecUtil.java" startLine="165" startPosition="5" endLine="166" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566561975" fileName="AecUtil.java" startLine="40" startPosition="22" endLine="42" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="AecUtil#()V" />
+    <nodeInfo nodeId="7037597780566606407" fileName="AecUtil.java" startLine="90" startPosition="12" endLine="92" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7446884211201076061" fileName="AecUtil.java" startLine="148" startPosition="10" endLine="150" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7037597780566649695" fileName="AecUtil.java" startLine="57" startPosition="70" endLine="60" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7037597780566607050" fileName="AecUtil.java" startLine="66" startPosition="65" endLine="69" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7037597780566606420" fileName="AecUtil.java" startLine="93" startPosition="113" endLine="96" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7037597780566606434" fileName="AecUtil.java" startLine="98" startPosition="145" endLine="101" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7037597780566649969" fileName="AecUtil.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="findAbstractEditorComponents#(Ljetbrains/mps/smodel/SNode;)Ljava/util/List;" />
+    <nodeInfo nodeId="7037597780566607455" fileName="AecUtil.java" startLine="72" startPosition="174" endLine="76" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Ljetbrains/mps/smodel/SNode;)Z" />
+    <nodeInfo nodeId="7037597780566606460" fileName="AecUtil.java" startLine="102" startPosition="130" endLine="106" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="7037597780566606488" fileName="AecUtil.java" startLine="108" startPosition="227" endLine="112" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="6722517096586343466" fileName="AecUtil.java" startLine="138" startPosition="0" endLine="142" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="findConcreteComponent#(Ljetbrains/mps/smodel/SNode;Ljava/lang/String;)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="6722517096586322851" fileName="AecUtil.java" startLine="159" startPosition="160" endLine="163" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="4070205545134736907" fileName="AecUtil.java" startLine="169" startPosition="67" endLine="173" endPosition="6" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="6722517096586322945" fileName="AecUtil.java" startLine="176" startPosition="69" endLine="180" endPosition="6" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566625203" fileName="AecUtil.java" startLine="71" startPosition="58" endLine="76" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7037597780566606400" fileName="AecUtil.java" startLine="87" startPosition="100" endLine="92" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7037597780566606454" fileName="AecUtil.java" startLine="101" startPosition="9" endLine="106" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7037597780566606481" fileName="AecUtil.java" startLine="107" startPosition="146" endLine="112" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4070205545134767280" fileName="AecUtil.java" startLine="124" startPosition="12" endLine="129" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="7446884211201075992" fileName="AecUtil.java" startLine="145" startPosition="170" endLine="150" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7037597780566649655" fileName="AecUtil.java" startLine="55" startPosition="60" endLine="61" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="6722517096586322847" fileName="AecUtil.java" startLine="158" startPosition="61" endLine="164" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="7037597780566649743" fileName="AecUtil.java" startLine="47" startPosition="0" endLine="54" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getAbstractEditorComponents#(Ljetbrains/mps/smodel/SNode;)Ljava/util/List;" />
+    <nodeInfo nodeId="4070205545134736907" fileName="AecUtil.java" startLine="168" startPosition="0" endLine="175" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="eq_4hvxy8_a0a0a3a0a8#(Ljava/lang/Object;Ljava/lang/Object;)Z" />
+    <nodeInfo nodeId="6722517096586322945" fileName="AecUtil.java" startLine="175" startPosition="0" endLine="182" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="eq_4hvxy8_a0a0a3a0a8_0#(Ljava/lang/Object;Ljava/lang/Object;)Z" />
+    <nodeInfo nodeId="4070205545134767196" fileName="AecUtil.java" startLine="121" startPosition="81" endLine="129" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="7037597780566625209" fileName="AecUtil.java" startLine="54" startPosition="0" endLine="64" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="findEditorDeclaration#(Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="7446884211201075681" fileName="AecUtil.java" startLine="142" startPosition="0" endLine="153" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="loadClass#(Ljava/lang/String;Ljetbrains/mps/smodel/SNode;)Ljava/lang/Class;" />
+    <nodeInfo nodeId="6722517096586287597" fileName="AecUtil.java" startLine="154" startPosition="129" endLine="165" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="7037597780566607022" fileName="AecUtil.java" startLine="64" startPosition="0" endLine="78" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="findEditorDeclarationByConcept#(Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="4070205545134744653" fileName="AecUtil.java" startLine="119" startPosition="22" endLine="134" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+    <nodeInfo nodeId="6722517096586343415" fileName="AecUtil.java" startLine="153" startPosition="0" endLine="168" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getConcreteComponentByConcept#(Ljetbrains/mps/smodel/SNode;Ljava/lang/String;Ljava/util/List;)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="7037597780566606427" fileName="AecUtil.java" startLine="96" startPosition="7" endLine="113" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="4070205545134704787" fileName="AecUtil.java" startLine="117" startPosition="0" endLine="138" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="createConcreteEditorCell#(Ljetbrains/mps/smodel/SNode;Ljava/lang/String;Ljetbrains/mps/nodeEditor/EditorContext;)Ljetbrains/mps/nodeEditor/cells/EditorCell;" />
+    <nodeInfo nodeId="7037597780566606389" fileName="AecUtil.java" startLine="85" startPosition="70" endLine="114" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="7037597780566606342" fileName="AecUtil.java" startLine="78" startPosition="0" endLine="117" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="findConcreteComponent#(Ljetbrains/mps/smodel/SNode;Ljava/lang/String;Ljetbrains/mps/smodel/SModel;)Ljetbrains/mps/smodel/SNode;" />
+    <scopeInfo nodeId="7037597780566561978" fileName="AecUtil.java" startLine="41" startPosition="20" endLine="41" endPosition="20" />
+    <scopeInfo nodeId="7037597780566649972" fileName="AecUtil.java" startLine="44" startPosition="73" endLine="45" endPosition="71" />
+    <scopeInfo nodeId="7037597780566649696" fileName="AecUtil.java" startLine="58" startPosition="31" endLine="59" endPosition="26" />
+    <scopeInfo nodeId="7037597780566607051" fileName="AecUtil.java" startLine="67" startPosition="27" endLine="68" endPosition="18" />
+    <scopeInfo nodeId="7037597780566607456" fileName="AecUtil.java" startLine="73" startPosition="39" endLine="74" endPosition="85" />
+    <scopeInfo nodeId="7037597780566606401" fileName="AecUtil.java" startLine="88" startPosition="88" endLine="89" endPosition="17" />
+    <scopeInfo nodeId="7037597780566606408" fileName="AecUtil.java" startLine="90" startPosition="14" endLine="91" endPosition="86" />
+    <scopeInfo nodeId="7037597780566606421" fileName="AecUtil.java" startLine="94" startPosition="38" endLine="95" endPosition="31" />
+    <scopeInfo nodeId="7037597780566606435" fileName="AecUtil.java" startLine="99" startPosition="247" endLine="100" endPosition="128" />
+    <scopeInfo nodeId="7037597780566606461" fileName="AecUtil.java" startLine="103" startPosition="39" endLine="104" endPosition="112" />
+    <scopeInfo nodeId="7037597780566606489" fileName="AecUtil.java" startLine="109" startPosition="39" endLine="110" endPosition="112" />
+    <scopeInfo nodeId="4070205545134767197" fileName="AecUtil.java" startLine="122" startPosition="38" endLine="123" endPosition="121" />
+    <scopeInfo nodeId="6722517096586343469" fileName="AecUtil.java" startLine="139" startPosition="91" endLine="140" endPosition="137" />
+    <scopeInfo nodeId="7446884211201075993" fileName="AecUtil.java" startLine="146" startPosition="25" endLine="147" endPosition="42" />
+    <scopeInfo nodeId="7446884211201076062" fileName="AecUtil.java" startLine="148" startPosition="12" endLine="149" endPosition="73" />
+    <scopeInfo nodeId="7037597780566561975" fileName="AecUtil.java" startLine="40" startPosition="22" endLine="42" endPosition="3" />
+    <scopeInfo nodeId="6722517096586322853" fileName="AecUtil.java" startLine="160" startPosition="371" endLine="162" endPosition="0" />
+    <scopeInfo nodeId="4070205545134744656" fileName="AecUtil.java" startLine="130" startPosition="0" endLine="133" endPosition="138">
       <varInfo nodeId="4070205545134744657" varName="ex" />
     </scopeInfo>
-    <scopeInfo nodeId="4070205545134744659" fileName="AecUtil.java" startLine="122" startPosition="28" endLine="123" endPosition="125" />
-    <scopeInfo nodeId="6722517096586343469" fileName="AecUtil.java" startLine="129" startPosition="91" endLine="130" endPosition="169" />
-    <scopeInfo nodeId="7037597780566561975" fileName="AecUtil.java" startLine="35" startPosition="22" endLine="37" endPosition="3" />
-    <scopeInfo nodeId="6722517096586322853" fileName="AecUtil.java" startLine="139" startPosition="371" endLine="141" endPosition="0" />
-    <scopeInfo nodeId="4070205545134767281" fileName="AecUtil.java" startLine="117" startPosition="14" endLine="120" endPosition="58">
+    <scopeInfo nodeId="4070205545134744659" fileName="AecUtil.java" startLine="130" startPosition="28" endLine="133" endPosition="138" />
+    <scopeInfo nodeId="7037597780566649969" fileName="AecUtil.java" startLine="43" startPosition="0" endLine="47" endPosition="0">
+      <varInfo nodeId="7037597780566649974" varName="concept" />
+    </scopeInfo>
+    <scopeInfo nodeId="7037597780566649746" fileName="AecUtil.java" startLine="48" startPosition="75" endLine="52" endPosition="18">
+      <varInfo nodeId="7037597780566649787" varName="result" />
+    </scopeInfo>
+    <scopeInfo nodeId="7037597780566649658" fileName="AecUtil.java" startLine="56" startPosition="103" endLine="60" endPosition="7">
+      <varInfo nodeId="7037597780566649689" varName="editorDecl" />
+    </scopeInfo>
+    <scopeInfo nodeId="7037597780566607455" fileName="AecUtil.java" startLine="72" startPosition="174" endLine="76" endPosition="0">
+      <varInfo nodeId="7037597780566607455" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="7037597780566606460" fileName="AecUtil.java" startLine="102" startPosition="130" endLine="106" endPosition="0">
+      <varInfo nodeId="7037597780566606460" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="7037597780566606488" fileName="AecUtil.java" startLine="108" startPosition="227" endLine="112" endPosition="0">
+      <varInfo nodeId="7037597780566606488" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="4070205545134767281" fileName="AecUtil.java" startLine="124" startPosition="14" endLine="128" endPosition="58">
       <varInfo nodeId="4070205545134736986" varName="concreteClass" />
       <varInfo nodeId="6722517096586380731" varName="provider" />
     </scopeInfo>
-    <scopeInfo nodeId="7037597780566649969" fileName="AecUtil.java" startLine="38" startPosition="0" endLine="42" endPosition="0">
-      <varInfo nodeId="7037597780566649974" varName="concept" />
-    </scopeInfo>
-    <scopeInfo nodeId="7037597780566649746" fileName="AecUtil.java" startLine="43" startPosition="75" endLine="47" endPosition="18">
-      <varInfo nodeId="7037597780566649787" varName="result" />
-    </scopeInfo>
-    <scopeInfo nodeId="7037597780566649658" fileName="AecUtil.java" startLine="51" startPosition="103" endLine="55" endPosition="7">
-      <varInfo nodeId="7037597780566649689" varName="editorDecl" />
-    </scopeInfo>
-    <scopeInfo nodeId="7037597780566607455" fileName="AecUtil.java" startLine="67" startPosition="174" endLine="71" endPosition="0">
-      <varInfo nodeId="7037597780566607455" varName="it" />
-    </scopeInfo>
-    <scopeInfo nodeId="7037597780566606460" fileName="AecUtil.java" startLine="95" startPosition="130" endLine="99" endPosition="0">
-      <varInfo nodeId="7037597780566606460" varName="it" />
-    </scopeInfo>
-    <scopeInfo nodeId="7037597780566606488" fileName="AecUtil.java" startLine="101" startPosition="227" endLine="105" endPosition="0">
-      <varInfo nodeId="7037597780566606488" varName="it" />
-    </scopeInfo>
-    <scopeInfo nodeId="6722517096586343466" fileName="AecUtil.java" startLine="128" startPosition="0" endLine="132" endPosition="0">
+    <scopeInfo nodeId="6722517096586343466" fileName="AecUtil.java" startLine="138" startPosition="0" endLine="142" endPosition="0">
       <varInfo nodeId="4070205545134704804" varName="componentName" />
       <varInfo nodeId="6722517096586370307" varName="nodeToEdit" />
     </scopeInfo>
-    <scopeInfo nodeId="6722517096586322850" fileName="AecUtil.java" startLine="138" startPosition="160" endLine="142" endPosition="9" />
-    <scopeInfo nodeId="4070205545134736907" fileName="AecUtil.java" startLine="148" startPosition="67" endLine="152" endPosition="6" />
-    <scopeInfo nodeId="6722517096586322945" fileName="AecUtil.java" startLine="155" startPosition="69" endLine="159" endPosition="6" />
-    <scopeInfo nodeId="7037597780566606480" fileName="AecUtil.java" startLine="100" startPosition="146" endLine="105" endPosition="11" />
-    <scopeInfo nodeId="7037597780566649655" fileName="AecUtil.java" startLine="50" startPosition="60" endLine="56" endPosition="5">
+    <scopeInfo nodeId="6722517096586322850" fileName="AecUtil.java" startLine="159" startPosition="160" endLine="163" endPosition="9" />
+    <scopeInfo nodeId="4070205545134736907" fileName="AecUtil.java" startLine="169" startPosition="67" endLine="173" endPosition="6" />
+    <scopeInfo nodeId="6722517096586322945" fileName="AecUtil.java" startLine="176" startPosition="69" endLine="180" endPosition="6" />
+    <scopeInfo nodeId="7037597780566606480" fileName="AecUtil.java" startLine="107" startPosition="146" endLine="112" endPosition="11" />
+    <scopeInfo nodeId="7037597780566649655" fileName="AecUtil.java" startLine="55" startPosition="60" endLine="61" endPosition="5">
       <varInfo nodeId="7037597780566649655" varName="superConcept" />
     </scopeInfo>
-    <scopeInfo nodeId="6722517096586322847" fileName="AecUtil.java" startLine="137" startPosition="61" endLine="143" endPosition="7">
+    <scopeInfo nodeId="6722517096586322847" fileName="AecUtil.java" startLine="158" startPosition="61" endLine="164" endPosition="7">
       <varInfo nodeId="6722517096586322847" varName="componentDecl" />
     </scopeInfo>
-    <scopeInfo nodeId="7037597780566649743" fileName="AecUtil.java" startLine="42" startPosition="0" endLine="49" endPosition="0">
+    <scopeInfo nodeId="7037597780566649743" fileName="AecUtil.java" startLine="47" startPosition="0" endLine="54" endPosition="0">
       <varInfo nodeId="7037597780566649751" varName="editorDecl" />
     </scopeInfo>
-    <scopeInfo nodeId="7037597780566625212" fileName="AecUtil.java" startLine="50" startPosition="60" endLine="57" endPosition="16" />
-    <scopeInfo nodeId="4070205545134736907" fileName="AecUtil.java" startLine="147" startPosition="0" endLine="154" endPosition="0">
+    <scopeInfo nodeId="7037597780566625212" fileName="AecUtil.java" startLine="55" startPosition="60" endLine="62" endPosition="16" />
+    <scopeInfo nodeId="4070205545134736907" fileName="AecUtil.java" startLine="168" startPosition="0" endLine="175" endPosition="0">
       <varInfo nodeId="4070205545134736907" varName="a" />
       <varInfo nodeId="4070205545134736907" varName="b" />
     </scopeInfo>
-    <scopeInfo nodeId="6722517096586322945" fileName="AecUtil.java" startLine="154" startPosition="0" endLine="161" endPosition="0">
+    <scopeInfo nodeId="6722517096586322945" fileName="AecUtil.java" startLine="175" startPosition="0" endLine="182" endPosition="0">
       <varInfo nodeId="6722517096586322945" varName="a" />
       <varInfo nodeId="6722517096586322945" varName="b" />
     </scopeInfo>
-    <scopeInfo nodeId="4070205545134744654" fileName="AecUtil.java" startLine="113" startPosition="9" endLine="121" endPosition="7">
-      <varInfo nodeId="4070205545134737008" varName="concreteComponent" />
+    <scopeInfo nodeId="7446884211201075684" fileName="AecUtil.java" startLine="143" startPosition="101" endLine="151" endPosition="18">
+      <varInfo nodeId="7446884211201075692" varName="module" />
+      <varInfo nodeId="7446884211201075708" varName="result" />
     </scopeInfo>
-    <scopeInfo nodeId="7037597780566606428" fileName="AecUtil.java" startLine="90" startPosition="130" endLine="99" endPosition="11">
+    <scopeInfo nodeId="7037597780566606428" fileName="AecUtil.java" startLine="97" startPosition="130" endLine="106" endPosition="11">
       <varInfo nodeId="7037597780566606430" varName="conceptDeclaration" />
     </scopeInfo>
-    <scopeInfo nodeId="6722517096586287600" fileName="AecUtil.java" startLine="134" startPosition="62" endLine="143" endPosition="7">
+    <scopeInfo nodeId="4070205545134744654" fileName="AecUtil.java" startLine="120" startPosition="9" endLine="129" endPosition="7">
+      <varInfo nodeId="4070205545134737008" varName="concreteComponent" />
+    </scopeInfo>
+    <scopeInfo nodeId="6722517096586287600" fileName="AecUtil.java" startLine="155" startPosition="72" endLine="164" endPosition="7">
       <varInfo nodeId="6722517096586322767" varName="editorModel" />
       <varInfo nodeId="6722517096586322691" varName="editorModelDescriptor" />
       <varInfo nodeId="6722517096586322649" varName="lang" />
     </scopeInfo>
-    <scopeInfo nodeId="7037597780566625209" fileName="AecUtil.java" startLine="49" startPosition="0" endLine="59" endPosition="0">
+    <scopeInfo nodeId="7037597780566625209" fileName="AecUtil.java" startLine="54" startPosition="0" endLine="64" endPosition="0">
       <varInfo nodeId="7037597780566625254" varName="concept" />
     </scopeInfo>
-    <scopeInfo nodeId="7037597780566607025" fileName="AecUtil.java" startLine="60" startPosition="75" endLine="71" endPosition="7">
+    <scopeInfo nodeId="7037597780566607025" fileName="AecUtil.java" startLine="65" startPosition="75" endLine="76" endPosition="7">
       <varInfo nodeId="7037597780566607312" varName="editorModel" />
       <varInfo nodeId="7037597780566607085" varName="editorModelDesriptor" />
       <varInfo nodeId="7037597780566607034" varName="language" />
     </scopeInfo>
-    <scopeInfo nodeId="6722517096586287597" fileName="AecUtil.java" startLine="133" startPosition="119" endLine="144" endPosition="5">
+    <scopeInfo nodeId="7446884211201075681" fileName="AecUtil.java" startLine="142" startPosition="0" endLine="153" endPosition="0">
+      <varInfo nodeId="7446884211201075688" varName="classFqName" />
+      <varInfo nodeId="7446884211201075685" varName="moduleNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="6722517096586287597" fileName="AecUtil.java" startLine="154" startPosition="129" endLine="165" endPosition="5">
       <varInfo nodeId="6722517096586287597" varName="mod" />
     </scopeInfo>
-    <scopeInfo nodeId="6722517096586343418" fileName="AecUtil.java" startLine="133" startPosition="119" endLine="145" endPosition="16" />
-    <scopeInfo nodeId="7037597780566607022" fileName="AecUtil.java" startLine="59" startPosition="0" endLine="73" endPosition="0">
+    <scopeInfo nodeId="6722517096586343418" fileName="AecUtil.java" startLine="154" startPosition="129" endLine="166" endPosition="16" />
+    <scopeInfo nodeId="7037597780566607022" fileName="AecUtil.java" startLine="64" startPosition="0" endLine="78" endPosition="0">
       <varInfo nodeId="7037597780566607029" varName="concept" />
     </scopeInfo>
-    <scopeInfo nodeId="4070205545134704790" fileName="AecUtil.java" startLine="111" startPosition="122" endLine="126" endPosition="18">
-      <varInfo nodeId="4070205545134744665" varName="result" />
-    </scopeInfo>
-    <scopeInfo nodeId="6722517096586343415" fileName="AecUtil.java" startLine="132" startPosition="0" endLine="147" endPosition="0">
+    <scopeInfo nodeId="6722517096586343415" fileName="AecUtil.java" startLine="153" startPosition="0" endLine="168" endPosition="0">
       <varInfo nodeId="4070205545134704833" varName="componentName" />
       <varInfo nodeId="6722517096586343427" varName="concept" />
       <varInfo nodeId="6722517096586343435" varName="languageModules" />
     </scopeInfo>
-    <scopeInfo nodeId="4070205545134704787" fileName="AecUtil.java" startLine="110" startPosition="0" endLine="128" endPosition="0">
+    <scopeInfo nodeId="4070205545134704790" fileName="AecUtil.java" startLine="118" startPosition="122" endLine="136" endPosition="18">
+      <varInfo nodeId="4070205545134744665" varName="result" />
+    </scopeInfo>
+    <scopeInfo nodeId="4070205545134704787" fileName="AecUtil.java" startLine="117" startPosition="0" endLine="138" endPosition="0">
       <varInfo nodeId="4070205545134736913" varName="componentName" />
       <varInfo nodeId="4070205545134745391" varName="editorContext" />
       <varInfo nodeId="4070205545134704792" varName="nodeToEdit" />
     </scopeInfo>
-    <scopeInfo nodeId="7037597780566606393" fileName="AecUtil.java" startLine="79" startPosition="64" endLine="106" endPosition="7">
+    <scopeInfo nodeId="7037597780566606393" fileName="AecUtil.java" startLine="86" startPosition="64" endLine="113" endPosition="7">
       <varInfo nodeId="7037597780566606395" varName="abstractConceptDeclaration" />
       <varInfo nodeId="7037597780566606415" varName="editorComponent" />
     </scopeInfo>
-    <scopeInfo nodeId="7037597780566606345" fileName="AecUtil.java" startLine="74" startPosition="100" endLine="108" endPosition="16">
+    <scopeInfo nodeId="7037597780566606345" fileName="AecUtil.java" startLine="79" startPosition="100" endLine="115" endPosition="16">
       <varInfo nodeId="7037597780566606371" varName="conceptQueue" />
-      <varInfo nodeId="7037597780566606361" varName="langRefs" />
+      <varInfo nodeId="7446884211200975220" varName="langRefs" />
       <varInfo nodeId="7037597780566606378" varName="processedConcepts" />
     </scopeInfo>
-    <scopeInfo nodeId="7037597780566606342" fileName="AecUtil.java" startLine="73" startPosition="0" endLine="110" endPosition="0">
+    <scopeInfo nodeId="7037597780566606342" fileName="AecUtil.java" startLine="78" startPosition="0" endLine="117" endPosition="0">
       <varInfo nodeId="4070205545134704818" varName="componentName" />
-      <varInfo nodeId="7037597780566606349" varName="module" />
+      <varInfo nodeId="7037597780566606349" varName="model" />
       <varInfo nodeId="7037597780566606346" varName="nodeConcept" />
     </scopeInfo>
-    <unitInfo nodeId="7037597780566561973" fileName="AecUtil.java" startLine="35" startPosition="0" endLine="162" endPosition="0" unitName="de.slisson.mps.editor.aec.util.AecUtil" />
-    <unitInfo nodeId="7037597780566607455" fileName="AecUtil.java" startLine="67" startPosition="151" endLine="71" endPosition="5" unitName="de.slisson.mps.editor.aec.util.AecUtil$1" />
-    <unitInfo nodeId="7037597780566606460" fileName="AecUtil.java" startLine="95" startPosition="111" endLine="99" endPosition="9" unitName="de.slisson.mps.editor.aec.util.AecUtil$2" />
-    <unitInfo nodeId="7037597780566606488" fileName="AecUtil.java" startLine="101" startPosition="208" endLine="105" endPosition="9" unitName="de.slisson.mps.editor.aec.util.AecUtil$3" />
+    <unitInfo nodeId="7037597780566561973" fileName="AecUtil.java" startLine="40" startPosition="0" endLine="183" endPosition="0" unitName="de.slisson.mps.editor.aec.util.AecUtil" />
+    <unitInfo nodeId="7037597780566607455" fileName="AecUtil.java" startLine="72" startPosition="151" endLine="76" endPosition="5" unitName="de.slisson.mps.editor.aec.util.AecUtil$1" />
+    <unitInfo nodeId="7037597780566606460" fileName="AecUtil.java" startLine="102" startPosition="111" endLine="106" endPosition="9" unitName="de.slisson.mps.editor.aec.util.AecUtil$2" />
+    <unitInfo nodeId="7037597780566606488" fileName="AecUtil.java" startLine="108" startPosition="208" endLine="112" endPosition="9" unitName="de.slisson.mps.editor.aec.util.AecUtil$3" />
   </root>
 </debugInfo>
 
